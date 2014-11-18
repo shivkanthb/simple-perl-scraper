@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<!--[if IE 7 ]>    <html class="ie7" lang="no"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="no"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="no"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="no">
+<!--<![endif]-->
+<head><meta charset="utf-8" /><meta content="width=device-width, initial-scale=1" name="viewport" /><meta name="ROBOTS" content="index,follow" /><meta http-equiv="x-ua-compatible" content="IE=edge" /><meta name="format-detection" content="telephone=no" />
+
+<meta property="og:title" content="" />
+<meta property="og:type" content="company" />
+<meta property="og:url" content="http://sn.no/privat" />
+<meta property="og:site_name" content="Sparebanken Narvik" />
+<meta property="og:description" content="" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://sn.no/privat" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="http://sn.no/~/media/banker/sn/bilder/388x100_sn_logo_liggende.png?w=154&h=154&mode=max" />
+
+
+<meta name="description" content="" />
+<title>
+	Sparebanken Narvik
+</title><link rel="shortcut icon" href="/~/media/fellesbilder/logoer/favicon/narvik.ico" /><link href="http://fonts.googleapis.com/css?family=Expletus+Sans:400,700" rel="stylesheet" type="text/css" /><link href="/Content/webfonts/ss-social-regular.css" rel="stylesheet" /><link href="/Content/webfonts/ss-pika.css" rel="stylesheet" /><link href="/bundle/cssBlue?v=jyVHCDWwHXhMy-XqL0eoRLyhZJz5-nqOnOZD44MxUu81" rel="stylesheet"/>
+<script src="/bundle/js-header?v=0VwPK3cp-BXhcyiSQv4aL9CpKb-RIloinD_bPLqxiY01"></script>
+
+
+    <!--[if lt IE 9]>
+        <script src="/bundle/old-ie-fixes?v=lcgc-F6IpaOEaXbrKlbhTaGH2Zfkj9_EZ82PtCn-_zc1"></script>
+
+    <![endif]-->
+
+    </head>
+<body>
+    <form method="post" action="privat" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwNTI3NDk1OQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgRmD2QWBAIGD2QWAmYPFgIeBFRleHQFElNwYXJlYmFua2VuIE5hcnZpa2QCBw8WAh8BBVM8bGluayByZWw9InNob3J0Y3V0IGljb24iIGhyZWY9Ii9+L21lZGlhL2ZlbGxlc2JpbGRlci9sb2dvZXIvZmF2aWNvbi9uYXJ2aWsuaWNvIiAvPmQCAQ9kFgICAw9kFgJmD2QWAmYPZBYEZg9kFgICAQ9kFgJmD2QWAgIBDxYCHwEF9Qk8ZGl2IGNsYXNzPSJzbGlkZSBzcy1icm93c2VvbmxpbmUgaWNvbiI+PGRpdiBjbGFzcz0iY29udGVudC13cmFwcGVyIj48YSBocmVmPSIvbmItTk8vcHJpdmF0L2JldGFsaW5nL3NlbHZiZXRqZW5pbmcvYXBwLmFzcHgiPjxoMj5BcHAgdGlsIG1vYmlsZW48L2gyPjwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzbGlkZSBzcy1jcmVkaXRjYXJkICBpY29uIj48ZGl2IGNsYXNzPSJjb250ZW50LXdyYXBwZXIiPjxhIGhyZWY9Ii9uYi1OTy9wcml2YXQvYmV0YWxpbmcva29ydC9rcmVkaXR0a29ydC5hc3B4Ij48aDI+S3JlZGl0dGtvcnQ8L2gyPjwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzbGlkZSBzcy1jcmVkaXRjYXJkICBpY29uIj48ZGl2IGNsYXNzPSJjb250ZW50LXdyYXBwZXIiPjxhIGhyZWY9Ii9uYi1OTy9wcml2YXQvYmV0YWxpbmcva29ydC9rb3J0ZGVzaWduLmFzcHgiPjxoMj5WYWxnZnJpdHQga29ydGRlc2lnbjwvaDI+PC9hPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9InNsaWRlIHNzLWNhciBpY29uIj48ZGl2IGNsYXNzPSJjb250ZW50LXdyYXBwZXIiPjxhIGhyZWY9Ii9uYi1OTy9wcml2YXQvbGFhbi9iaWxsYW4vYmlsLWxhYW4uYXNweCI+PGgyPkJpbGzDpW48L2gyPjwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzbGlkZSBzcy1jYXIgaWNvbiI+PGRpdiBjbGFzcz0iY29udGVudC13cmFwcGVyIj48YSBocmVmPSIvbmItTk8vcHJpdmF0L2ZvcnNpa3Jpbmcva2pvcmV0b3kvYmlsLWZvcnNpa3JpbmcuYXNweCI+PGgyPkJpbGZvcnNpa3Jpbmc8L2gyPjwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzbGlkZSBzcy1ob21lIGljb24iPjxkaXYgY2xhc3M9ImNvbnRlbnQtd3JhcHBlciI+PGEgaHJlZj0iL25iLU5PL3ByaXZhdC9sYWFuL2JvbGlnbGFuL2JvbGlnbGFuLmFzcHgiPjxoMj5Cb2xpZ2zDpW48L2gyPjwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzbGlkZSBzcy1ob21lIGljb24iPjxkaXYgY2xhc3M9ImNvbnRlbnQtd3JhcHBlciI+PGEgaHJlZj0iL25iLU5PL3ByaXZhdC9mb3JzaWtyaW5nL2JvbGlnL2JvbGlnLWZvcnNpa3JpbmcuYXNweCI+PGgyPkJvbGlnZm9yc2lrcmluZzwvaDI+PC9hPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9InNsaWRlIHNzLWRlcGFydHVyZSBpY29uIj48ZGl2IGNsYXNzPSJjb250ZW50LXdyYXBwZXIiPjxhIGhyZWY9Ii9uYi1OTy9wcml2YXQvZm9yc2lrcmluZy9yZWlzZS1mb3JzaWtyaW5nLmFzcHgiPjxoMj5SZWlzZSBvZyB1bHlra2U8L2gyPjwvYT48L2Rpdj48L2Rpdj5kAgIPZBYEZg9kFgJmD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIGFgwCAQ9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBR8vb20tb3NzL255aGV0ZXIvMjAxMy9rb2tmb3Jub3lkZBYCZg8PFgQeCEltYWdlVXJsBVEvfi9tZWRpYS9iYW5rZXIvc24vYmlsZGVyL2tva2Zvcm5veWRfODAweDQwMC5KUEc/dz0zMjImaD0xNjAmaXJuZXQ9dHJ1ZSZtb2RlPWNyb3AeDUFsdGVybmF0ZVRleHQFC0tva2Zvcm7DuHlkZGQCAg9kFgICAQ8PFgIfAwUrL29tLW9zcy9ueWhldGVyLzIwMTMvc2NobmFra2Vza2FsZW5kZXJfMjAxNGQWAmYPDxYEHwQFVi9+L21lZGlhL2Jhbmtlci9zbi9iaWxkZXIva2FsZW5kZXJyZWthXzgwMHg0MDBweGwuSlBHP3c9MzIyJmg9MTYwJmlybmV0PXRydWUmbW9kZT1jcm9wHwUFEU55IGthbGVuZGVyIDIwMTQgZGQCAw9kFgICAQ8PFgIfAwUvL29tLW9zcy9rYW1wYW5qZXIvcGVuc2pvbmVuX3NvbV9lbl9vdmVycmFza2Vsc2VkFgJmDw8WBB8EBVMvfi9tZWRpYS9iYW5rZXIvc24v
